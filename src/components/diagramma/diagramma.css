@@ -1,0 +1,46 @@
+.diagramma{
+    background-color: #F7F8FC;
+    width: 1122px;
+    height: 570px;
+    border-radius: 5px;
+    border: 1px solid rgb(205, 202, 202);
+}
+
+.heading{
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    color: #252733;
+    margin: 0;
+    padding: 0;
+}
+
+.desc{
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    color: #9FA2B4;
+}
+
+.paragraf{
+    padding: 0;
+    margin: 0;
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.1px;
+    color: #9FA2B4;
+}
+.today{
+    margin-left: 450px;
+}

@@ -1,0 +1,33 @@
+.page-left{
+    background: #363740;
+    height: 1234px;
+}
+
+.page-left__heading{
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    color: #A4A6B3;
+    opacity: 0.7;
+}
+
+.page-left__link{
+    text-decoration: none;
+}
+
+.link{
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #DDE2FF;
+}
+
+.logo{
+    padding-top: 20px;
+}

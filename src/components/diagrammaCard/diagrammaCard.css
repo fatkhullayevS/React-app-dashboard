@@ -1,0 +1,30 @@
+.card2{
+    background-color: #F7F8FC;
+    width: 342px;
+    height: 114px;
+    /* border-radius: 5px; */
+    border: 1px solid rgb(205, 202, 202);
+}
+
+.card__desc{
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.3px;
+    color: #9FA2B4;
+}
+
+.card__heading{
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.3px;
+    color: #252733;
+    margin-left: 150px;
+}
