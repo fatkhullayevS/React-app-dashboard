@@ -1,0 +1,36 @@
+.person{
+    width: 1120px;
+    height: 92px;
+    border-top: 1px solid rgb(180, 178, 178);
+}
+
+.person__tom-desc{
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+}
+
+.person__tom{
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    position: absolute;
+}
+
+.person-customer{
+    margin-left: 435px !important;
+}
+
+.person-data{
+    margin-left: 130px !important;
+}
+
+.person-btn{
+    margin-left: 110px !important;
+}

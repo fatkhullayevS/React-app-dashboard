@@ -1,6 +1,5 @@
 import PageLeft from "./PageLeft/PageLeft";
 import PageRight from "./PageRight/PageRight";
-import Diagramma from "./diagramma/diagramma";
 
 const Main = () => {
     return (

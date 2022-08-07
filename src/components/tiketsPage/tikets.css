@@ -1,0 +1,70 @@
+.tiket-page{
+    width: 1122px;
+    height: 942px;
+    background-color:  #E5E5E5;
+    border-radius: 8px;
+    border: 1px solid rgb(180, 178, 178);
+}
+
+.tikets-page__heading{
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    color: #252733;
+}
+
+.customer-desc{
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+    color: #9FA2B4;
+    margin-left: 512px !important;
+}
+
+.date-desc{
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+    color: #9FA2B4;
+    margin-left: 100px !important;
+}
+
+.Priority-desc{
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+    color: #9FA2B4;
+    margin-left: 120px !important;
+}
+
+.tiket-desc{
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+    color: #9FA2B4;
+}

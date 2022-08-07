@@ -9,7 +9,7 @@ const PageRight = () => {
     return (
         <div>
             <div>
-                <Header />
+                <Header name="Overview" />
             </div>
             <div className="row">
                 <div className="col-3">
